@@ -1,0 +1,15 @@
+var properties = (function() {
+  return {
+    "facebook": {
+      "fbappid": "facebookappid",
+      "fbscriptversion": "version"
+    },
+    "mysql": {
+      "host": "<hostname>",
+      "user": "<username>",
+      "password": "<password>"
+    }
+  };
+}());
+
+module.exports = properties;
