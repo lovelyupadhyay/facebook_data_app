@@ -1,5 +1,5 @@
 {
-  "name": "practice",
+  "name": "facebook_data_app",
   "version": "1.0.0",
   "description": "mysql connection with node js",
   "main": "index.js",
