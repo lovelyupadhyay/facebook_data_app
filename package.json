@@ -1,0 +1,15 @@
+{
+  "name": "practice",
+  "version": "1.0.0",
+  "description": "mysql connection with node js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lovely Upadhyay",
+  "license": "MIT",
+  "dependencies": {
+    "fb": "^0.7.0",
+    "mysql": "^2.7.0"
+  }
+}
